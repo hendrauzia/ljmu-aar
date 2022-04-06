@@ -1,0 +1,8 @@
+matplotlib
+notebook
+numpy <= 1.21 # Numba (required by shap) needs NumPy 1.21 or less
+pandas
+scipy
+seaborn
+shap
+sklearn
